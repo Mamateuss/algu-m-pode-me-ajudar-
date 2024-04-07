@@ -1,3 +1,5 @@
+alguem sabe como nao aparecer o 'none' na hora de responder as perguntas? 
+
 input('Olá! seja muito bem vindo a Google! digite Olá para continuar... ')
 name = input('Para começar diga o seu nome ')
 age = input(print('prazer {}! agora nos diga: qual a sua idade? '.format(name)))
